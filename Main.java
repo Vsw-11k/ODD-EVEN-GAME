@@ -2,7 +2,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class random extends newpro {
+class random extends Main {
 	public int ran(){
 		Random rand = new Random();
 		int maxNumber = 6;
