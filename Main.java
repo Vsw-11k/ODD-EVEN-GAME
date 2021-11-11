@@ -96,7 +96,7 @@ class random extends Main {
 		 				 while(ot==0) {
 		 					int randomint1=r.ran();	
 		 					if(total<total1) {
-		 						 System.out.println("System has won the game");
+		 						 System.out.println("Player has won the game");
 		 						 ot=1;
 			 					 out=1;
 		 						 break;
@@ -115,7 +115,7 @@ class random extends Main {
 		 						 break;
 		 					 }
 		 					 else if(total>total1) {
-		 						 System.out.println("Player has won the game");	
+		 						 System.out.println("System has won the game");	
 		 						 ot=1;
 			 					 out=1;
 		 						 break;
